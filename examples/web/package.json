@@ -12,8 +12,8 @@
     "@nozbe/watermelondb": "latest",
     "@nozbe/with-observables": "^1.0.0",
     "lokijs": "^1.5.5",
-    "react": "16.8.1",
-    "react-dom": "^16.4.2",
+    "react": "16.14.0",
+    "react-dom": "^16.14.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "recompose": "^0.30.0"
