@@ -11,7 +11,7 @@
   "dependencies": {
     "@nozbe/watermelondb": "latest",
     "@nozbe/with-observables": "^1.0.0",
-    "lokijs": "^1.5.5",
+    "lokijs": "^1.5.12",
     "react": "16.8.1",
     "react-dom": "^16.4.2",
     "react-router": "^4.3.1",
